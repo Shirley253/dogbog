@@ -2,7 +2,21 @@
   background-color: black;
   color: white;
 }
-.white-background {
-  background-color: white;
+.border-highlight {
+  border-style: groove;
+  border-radius: 10px;
+  border-color: blue;
+  border-width: medium;
+  background-color: orange;
   color: black;
+}
+button {
+  background-color: inherit;
+  color: black;
+  border: none;
+  cursor: pointer;
+  padding-bottom: 20px;
+}
+img {
+  padding: 20px;
 }
